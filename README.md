@@ -4,7 +4,7 @@
 Studying to become an amazing Software Developer
 -----------------------------
 
-I'm a 16 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 16 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is front end development, making applications that impact the life of thousands of users.
 
 * 🌍  I'm based in Paraíba, Brazil
 * ✉️  You can contact me at [andraderafael037@gmail.com](mailto:andraderafael037@gmail.com)
