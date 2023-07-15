@@ -8,8 +8,8 @@ I'm a 16 years old developer. I love to code and figure it out how to solve deep
 
 * 🌍  I'm based in Paraíba, Brazil
 * ✉️  You can contact me at [andraderafael037@gmail.com](mailto:andraderafael037@gmail.com)
-* 🚀  I'm currently just studying
-* 🧠  I'm learning JavaScript
+* 🚀  I'm in a internship at Grafica JB
+* 🧠  Always studying to get better at programming
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love beach volleyball
 
