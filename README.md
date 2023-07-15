@@ -26,6 +26,11 @@ I'm a 16 years old developer. I love to code and figure it out how to solve deep
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Swift" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
 </a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" />
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
+   
+ 
 
 
  ### Socials
