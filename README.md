@@ -7,7 +7,7 @@ I am a Frontend-focused Web Developer based in João Pessoa, PB, Brazil, With ov
 * I am currently pursuing a B.S. in Computer Science at Universidade UNIPÊ, I enrolled at age 16 and am on track to complete my 4-year degree before turning 20 in November 2026
 * At ServiceNet Tecnologia, I contributed to eliminating critical production incidents for multiple consecutive months on a widely-used enterprise system
 * I actively coordinate and mentor interns and junior developers to ensure code quality and on-time delivery
-* I am a 3x Brazilian National Beach Volleyball Champion[: 34. Competing at an elite level has built my resilience, communication, and high-pressure teamwork skills
+* I am a 3x Brazilian National Beach Volleyball Champion. Competing at an elite level has built my resilience, communication, and high-pressure teamwork skills
 * When I am not coding or training on the sand, you can usually find me analyzing personal finance and investments, or organizing Dungeons & Dragons campaigns with custom maps and tokens.
 
 ### 💻 Tech Stack
