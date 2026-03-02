@@ -1,4 +1,4 @@
-# Hi there! I'm Rafael Andrade Mendes 👋 [: 1
+# Hi there! I'm Rafael Andrade Mendes 👋
 
 I am a Frontend-focused Web Developer based in João Pessoa, PB, Brazil, With over 2 years of professional experience, I specialize in building and maintaining full-stack JavaScript applications. I am passionate about creating stable, high-performance software and constantly exploring the deeper concepts of JavaScript and mobile development.
 
