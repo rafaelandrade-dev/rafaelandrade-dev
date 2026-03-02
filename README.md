@@ -1,53 +1,29 @@
- Hi 👋 My name is Rafael Andrade
-==========================
+# Hi there! I'm Rafael Andrade Mendes 👋 [: 1
 
-Studying to become an amazing Software Developer
------------------------------
+I am a Frontend-focused Web Developer based in João Pessoa, PB, Brazil, With over 2 years of professional experience, I specialize in building and maintaining full-stack JavaScript applications. I am passionate about creating stable, high-performance software and constantly exploring the deeper concepts of JavaScript and mobile development.
 
-I'm a 16 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is front end development, making applications that impact the life of thousands of users.
+### 🚀 About Me
 
-* 🌍  I'm based in Paraíba, Brazil
-* ✉️  You can contact me at [andraderafael037@gmail.com](mailto:andraderafael037@gmail.com)
-* 🚀  I'm in a internship at Grafica JB
-* 🧠  Always studying to get better at programming
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love beach volleyball
+* I am currently pursuing a B.S. in Computer Science at Universidade UNIPÊ, I enrolled at age 16 and am on track to complete my 4-year degree before turning 20 in November 2026
+* At ServiceNet Tecnologia, I contributed to eliminating critical production incidents for multiple consecutive months on a widely-used enterprise system
+* I actively coordinate and mentor interns and junior developers to ensure code quality and on-time delivery
+* I am a 3x Brazilian National Beach Volleyball Champion[: 34. Competing at an elite level has built my resilience, communication, and high-pressure teamwork skills
+* When I am not coding or training on the sand, you can usually find me analyzing personal finance and investments, or organizing Dungeons & Dragons campaigns with custom maps and tokens.
 
-  <div>
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/987820569393242185/987820873211863091/Webp.net-gifmaker.gif">
-  <div/>
-  
-  ### Skills
+### 💻 Tech Stack
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/JS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Swift" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-</a>
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/React" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-   
- 
+* **Frontend:** React.js, Vue.js, JavaScript (ES6+), HTML5, CSS3
+* **Backend:** Node.js, Express.js, PHP (Laravel)
+* **Databases:** MySQL, PostgreSQL
+* **Tools & Practices:** Git, GitHub, REST APIs, Agile Methodologies, Virtual Machines
 
+### 📈 Professional Highlights
 
- ### Socials
- <p align="left">
-  <a href="https://www.instagram.com/aandraderafael/" target="_blank" rel"noreferrer"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" width="32" height="32" /></a>                                                                                   
- <a href="https://www.twitch.tv/andraderafael1" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" width="32" height="32" /></a> 
- <a href="https://www.linkedin.com/in/rafael-andrade-1ab7a1242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
- ### Badges
+* **ServiceNet Tecnologia (Feb 2024 - Present):** I develop and maintain a machine control system in real production environments. I deliver features across frontend and backend stacks while responding quickly to high-priority enterprise demands.
+* **Gráfica JB (Feb 2023 - Apr 2023):** As an intern, I built and maintained web features using PHP and jQuery.I sharpened my autonomous problem-solving skills and applied Git version control in a real production codebase.
 
-<b>My GitHub Stats</b>
+### 📫 Let's Connect!
 
-<a href="http://www.github.com/rafaelandrade-dev"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=rafaelandrade-dev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="rafaelandrade-dev's GitHub stats" /></a>
- 
- <a href="https://github.com/rafaelandrade-dev"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=rafaelandrade-dev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/rafaelandrade-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelandrade-dev&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/rafaelandrade-dev"><img src="https://activity-graph.herokuapp.com/graph?username=rafaelandrade-dev&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+* **Email:** andraderafael037@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/rafael-andrade-1ab7a1242
+* **Portfolio:** https://portfolio-kappa-three-53.vercel.app/
