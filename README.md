@@ -25,5 +25,5 @@ I am a Frontend-focused Web Developer based in João Pessoa, PB, Brazil, With ov
 ### 📫 Let's Connect!
 
 * **Email:** andraderafael037@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/rafael-andrade-1ab7a1242
+* **LinkedIn:** https://www.linkedin.com/in/rafael-andradedev1/
 * **Portfolio:** https://portfolio-kappa-three-53.vercel.app/
