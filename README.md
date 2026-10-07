@@ -1,6 +1,6 @@
-# Hi there! I'm Rafael Andrade Mendes 👋
+# Hi there! I'm Rafael Andrade Mendes 
 
-I am a Frontend-focused Software Engineer based in João Pessoa, PB, Brazil, With over 2 years of professional experience, I specialize in building and maintaining full-stack JavaScript applications. I am passionate about creating stable, high-performance software and constantly exploring the deeper concepts of JavaScript and mobile development.
+I am a Software Engineer based in João Pessoa, PB, Brazil, With over 2 years of professional experience, I specialize in building and maintaining full-stack JavaScript applications. I am passionate about creating stable, high-performance software and constantly exploring the deeper concepts of JavaScript and mobile development.
 
 ### 🚀 About Me
 
@@ -19,6 +19,7 @@ I am a Frontend-focused Software Engineer based in João Pessoa, PB, Brazil, Wit
 
 ### 📈 Professional Highlights
 
+* **Fuze.cc (Oct 2026 - Present):** Working in the app for moises.ai for TVs*
 * **ServiceNet Tecnologia (Feb 2024 - Oct 2026):** I develop and maintain a machine control system in real production environments. I deliver features across frontend and backend stacks while responding quickly to high-priority enterprise demands.
 * **Gráfica JB (Feb 2023 - Apr 2023):** As an intern, I built and maintained web features using PHP and jQuery.I sharpened my autonomous problem-solving skills and applied Git version control in a real production codebase.
 
